@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Mergado Test Feed</title>
+    <link>https://example.com</link>
+    <description>Google Shopping teszt feed Mergado-hoz</description>
+
+    <item>
+      <g:id>1</g:id>
+      <g:title>Test Product Alpha</g:title>
+      <g:description>Ez egy minta termékleírás.</g:description>
+      <g:link>https://example.com/product-alpha</g:link>
+      <g:image_link>https://example.com/images/alpha.jpg</g:image_link>
+      <g:price>10000 HUF</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>TestBrand</g:brand>
+      <g:gtin>1234567890123</g:gtin>
+      <g:mpn>TPA-001</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:country>HU</g:country>
+      <g:google_product_category>Apparel & Accessories > Clothing</g:google_product_category>
+      <g:product_type>Clothing > T-Shirts</g:product_type>
+    </item>
+
+    <item>
+      <g:id>2</g:id>
+      <g:title>Test Product Beta</g:title>
+      <!-- szándékosan hiányzik description -->
+      <g:link>https://example.com/product-beta</g:link>
+      <g:image_link>https://example.com/images/beta.jpg</g:image_link>
+      <g:price>12000 HUF</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>TestBrand</g:brand>
+      <g:gtin>1234567890124</g:gtin>
+      <g:mpn>TPA-002</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:country>HU</g:country>
+      <g:google_product_category>Apparel & Accessories > Clothing</g:google_product_category>
+      <g:product_type>Clothing > T-Shirts</g:product_type>
+    </item>
+
+    <item>
+      <g:id>3</g:id>
+      <g:title>Test Product Gamma</g:title>
+      <!-- szándékosan hiányzik description -->
+      <g:link>https://example.com/product-gamma</g:link>
+      <g:image_link>https://example.com/images/gamma.jpg</g:image_link>
+      <g:price>9000 HUF</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>TestBrand</g:brand>
+      <g:gtin>1234567890125</g:gtin>
+      <g:mpn>TPA-003</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:country>HU</g:country>
+      <g:google_product_category>Apparel & Accessories > Clothing</g:google_product_category>
+      <g:product_type>Clothing > T-Shirts</g:product_type>
+    </item>
+
+    <item>
+      <g:id>4</g:id>
+      <g:title>Test Product Delta</g:title>
+      <g:description>Van leírás, de nincs kép.</g:description>
+      <g:link>https://example.com/product-delta</g:link>
+      <!-- szándékosan hiányzik image_link -->
+      <g:price>15000 HUF</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>TestBrand</g:brand>
+      <g:gtin>1234567890126</g:gtin>
+      <g:mpn>TPA-004</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:country>HU</g:country>
+      <g:google_product_category>Apparel & Accessories > Clothing</g:google_product_category>
+      <g:product_type>Clothing > T-Shirts</g:product_type>
+    </item>
+
+    <item>
+      <g:id>5</g:id>
+      <g:title>Test Product Epsilon</g:title>
+      <g:description>Szándékosan hiányzó kép.</g:description>
+      <g:link>https://example.com/product-epsilon</g:link>
+      <!-- szándékosan hiányzik image_link -->
+      <g:price>8000 HUF</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>TestBrand</g:brand>
+      <g:gtin>1234567890127</g:gtin>
+      <g:mpn>TPA-005</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:country>HU</g:country>
+      <g:google_product_category>Apparel & Accessories > Clothing</g:google_product_category>
+      <g:product_type>Clothing > T-Shirts</g:product_type>
+    </item>
+
+    <item>
+      <g:id>6</g:id>
+      <g:title>Test Product Zeta</g:title>
+      <!-- szándékosan hiányzik description -->
+      <g:link>https://example.com/product-zeta</g:link>
+      <g:image_link>https://example.com/images/zeta.jpg</g:image_link>
+      <g:price>11000 HUF</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>TestBrand</g:brand>
+      <g:gtin>1234567890128</g:gtin>
+      <g:mpn>TPA-006</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:country>HU</g:country>
+      <g:google_product_category>Apparel & Accessories > Clothing</g:google_product_category>
+      <g:product_type>Clothing > T-Shirts</g:product_type>
+    </item>
+
+    <item>
+      <g:id>7</g:id>
+      <g:title>Test Product Eta</g:title>
+      <!-- szándékosan hiányzik description -->
+      <g:link>https://example.com/product-eta</g:link>
+      <g:image_link>https://example.com/images/eta.jpg</g:image_link>
+      <g:price>13000 HUF</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>TestBrand</g:brand>
+      <g:gtin>1234567890129</g:gtin>
+      <g:mpn>TPA-007</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:country>HU</g:country>
+      <g:google_product_category>Apparel & Accessories > Clothing</g:google_product_category>
+      <g:product_type>Clothing > T-Shirts</g:product_type>
+    </item>
+
+    <item>
+      <g:id>8</g:id>
+      <g:title>Test Product Theta</g:title>
+      <g:description>Megfelelő termék minden adattal.</g:description>
+      <g:link>https://example.com/product-theta</g:link>
+      <g:image_link>https://example.com/images/theta.jpg</g:image_link>
+      <g:price>14000 HUF</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>TestBrand</g:brand>
+      <g:gtin>1234567890130</g:gtin>
+      <g:mpn>TPA-008</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:country>HU</g:country>
+      <g:google_product_category>Apparel & Accessories > Clothing</g:google_product_category>
+      <g:product_type>Clothing > T-Shirts</g:product_type>
+    </item>
+
+    <item>
+      <g:id>9</g:id>
+      <g:title>Test Product Alpha</g:title>
+      <g:description>Duplikált terméknév teszteléshez.</g:description>
+      <g:link>https://example.com/product-alpha-duplicate</g:link>
+      <g:image_link>https://example.com/images/alpha2.jpg</g:image_link>
+      <g:price>10000 HUF</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>TestBrand</g:brand>
+      <g:gtin>1234567890131</g:gtin>
+      <g:mpn>TPA-009</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:country>HU</g:country>
+      <g:google_product_category>Apparel & Accessories > Clothing</g:google_product_category>
+      <g:product_type>Clothing > T-Shirts</g:product_type>
+    </item>
+
+    <item>
+      <g:id>10</g:id>
+      <g:title>Test Product Iota</g:title>
+      <g:description>Teljesen rendben lévő termék.</g:description>
+      <g:link>https://example.com/product-iota</g:link>
+      <g:image_link>https://example.com/images/iota.jpg</g:image_link>
+      <g:price>16000 HUF</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>TestBrand</g:brand>
+      <g:gtin>1234567890132</g:gtin>
+      <g:mpn>TPA-010</g:mpn>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:country>HU</g:country>
+      <g:google_product_category>Apparel & Accessories > Clothing</g:google_product_category>
+      <g:product_type>Clothing > T-Shirts</g:product_type>
+    </item>
+
+  </channel>
+</rss>
+
