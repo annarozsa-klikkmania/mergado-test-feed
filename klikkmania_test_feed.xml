@@ -13,13 +13,13 @@
       <g:link>https://example.com/product-alpha</g:link>
       <g:image_link>https://example.com/images/alpha.jpg</g:image_link>
       <g:price>10000 HUF</g:price>
-      <g:availability>in stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>TestBrand</g:brand>
-      <g:gtin>1234567890123</g:gtin>
+      <g:gtin>234567890123</g:gtin>
       <g:mpn>TPA-001</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:country>HU</g:country>
+      <g:country>US</g:country>
       <g:google_product_category>Apparel & Accessories > Clothing</g:google_product_category>
       <g:product_type>Clothing > T-Shirts</g:product_type>
     </item>
@@ -31,13 +31,13 @@
       <g:link>https://example.com/product-beta</g:link>
       <g:image_link>https://example.com/images/beta.jpg</g:image_link>
       <g:price>12000 HUF</g:price>
-      <g:availability>in stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>TestBrand</g:brand>
-      <g:gtin>1234567890124</g:gtin>
+      <g:gtin>234567890124</g:gtin>
       <g:mpn>TPA-002</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:country>HU</g:country>
+      <g:country>US</g:country>
       <g:google_product_category>Apparel & Accessories > Clothing</g:google_product_category>
       <g:product_type>Clothing > T-Shirts</g:product_type>
     </item>
@@ -49,13 +49,13 @@
       <g:link>https://example.com/product-gamma</g:link>
       <g:image_link>https://example.com/images/gamma.jpg</g:image_link>
       <g:price>9000 HUF</g:price>
-      <g:availability>in stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>TestBrand</g:brand>
-      <g:gtin>1234567890125</g:gtin>
+      <g:gtin>234567890125</g:gtin>
       <g:mpn>TPA-003</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:country>HU</g:country>
+      <g:country>US</g:country>
       <g:google_product_category>Apparel & Accessories > Clothing</g:google_product_category>
       <g:product_type>Clothing > T-Shirts</g:product_type>
     </item>
@@ -67,13 +67,13 @@
       <g:link>https://example.com/product-delta</g:link>
       <!-- szándékosan hiányzik image_link -->
       <g:price>15000 HUF</g:price>
-      <g:availability>in stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>TestBrand</g:brand>
-      <g:gtin>1234567890126</g:gtin>
+      <g:gtin>234567890126</g:gtin>
       <g:mpn>TPA-004</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:country>HU</g:country>
+      <g:country>US</g:country>
       <g:google_product_category>Apparel & Accessories > Clothing</g:google_product_category>
       <g:product_type>Clothing > T-Shirts</g:product_type>
     </item>
@@ -85,13 +85,13 @@
       <g:link>https://example.com/product-epsilon</g:link>
       <!-- szándékosan hiányzik image_link -->
       <g:price>8000 HUF</g:price>
-      <g:availability>in stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>TestBrand</g:brand>
-      <g:gtin>1234567890127</g:gtin>
+      <g:gtin>234567890127</g:gtin>
       <g:mpn>TPA-005</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
-      <g:country>HU</g:country>
+      <g:country>US</g:country>
       <g:google_product_category>Apparel & Accessories > Clothing</g:google_product_category>
       <g:product_type>Clothing > T-Shirts</g:product_type>
     </item>
@@ -103,10 +103,10 @@
       <g:link>https://example.com/product-zeta</g:link>
       <g:image_link>https://example.com/images/zeta.jpg</g:image_link>
       <g:price>11000 HUF</g:price>
-      <g:availability>in stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>TestBrand</g:brand>
-      <g:gtin>1234567890128</g:gtin>
+      <g:gtin>234567890128</g:gtin>
       <g:mpn>TPA-006</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
       <g:country>HU</g:country>
@@ -121,10 +121,10 @@
       <g:link>https://example.com/product-eta</g:link>
       <g:image_link>https://example.com/images/eta.jpg</g:image_link>
       <g:price>13000 HUF</g:price>
-      <g:availability>in stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>TestBrand</g:brand>
-      <g:gtin>1234567890129</g:gtin>
+      <g:gtin>234567890129</g:gtin>
       <g:mpn>TPA-007</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
       <g:country>HU</g:country>
@@ -139,10 +139,10 @@
       <g:link>https://example.com/product-theta</g:link>
       <g:image_link>https://example.com/images/theta.jpg</g:image_link>
       <g:price>14000 HUF</g:price>
-      <g:availability>in stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>TestBrand</g:brand>
-      <g:gtin>1234567890130</g:gtin>
+      <g:gtin>234567890130</g:gtin>
       <g:mpn>TPA-008</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
       <g:country>HU</g:country>
@@ -157,10 +157,10 @@
       <g:link>https://example.com/product-alpha-duplicate</g:link>
       <g:image_link>https://example.com/images/alpha2.jpg</g:image_link>
       <g:price>10000 HUF</g:price>
-      <g:availability>in stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>TestBrand</g:brand>
-      <g:gtin>1234567890131</g:gtin>
+      <g:gtin>234567890131</g:gtin>
       <g:mpn>TPA-009</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
       <g:country>HU</g:country>
@@ -175,10 +175,10 @@
       <g:link>https://example.com/product-iota</g:link>
       <g:image_link>https://example.com/images/iota.jpg</g:image_link>
       <g:price>16000 HUF</g:price>
-      <g:availability>in stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>TestBrand</g:brand>
-      <g:gtin>1234567890132</g:gtin>
+      <g:gtin>234567890132</g:gtin>
       <g:mpn>TPA-010</g:mpn>
       <g:identifier_exists>yes</g:identifier_exists>
       <g:country>HU</g:country>
